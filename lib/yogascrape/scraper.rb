@@ -18,7 +18,7 @@ class Yogascrape::Scraper
   
    diff_array=self.get_difficulty(doc,diff_array)
    url_array=self.get_url(doc, url_array)
-   
+   #comment
    i=1
    while i<=5 do
      
